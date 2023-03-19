@@ -3,11 +3,8 @@
 <p align="center"><img src="https://github.com/exc33ded/Geeks-Of-Innovation-Driver-Drowsiness-Detection-System/blob/main/Logo.JPG" alt="project-image"></p>
 
 <p id="description">Driving when asleep is dangerous and can result in a vehicle accident. To solve this issue a driver sleepiness detection system that monitors the driver's awareness state using deep learning and convolutional neural networks (CNN) has been developed. The MRL Eye Dataset dataset is used to create a model that detect tiredness indicators such as sluggish blinking in real-time using machine learning techniques. When the system detects that the driver is becoming weary an alert is delivered to warn the driver to take a break or pull over in order to avoid an accident. Driver drowsiness detection has the potential to improve road safety by minimizing accidents caused by driver fatigue.</p>
+The project's dataset was taken from <a href="http://mrl.cs.vsb.cz/eyedataset">MRL Eye Dataset</a>. Later this data was divided into train and test data for model training and testing.
 
-
-
-  
-  
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
