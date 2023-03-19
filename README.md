@@ -23,7 +23,7 @@ Here're some of the project's best features:
 python -m venv venv_name
 ```
 
-<p>3. Activate the virtual environment</p>
+<p>3. Activate the virtual environment by using the following command: </p>
 
 ```
 venv_name/Scripts/Activate.ps1
