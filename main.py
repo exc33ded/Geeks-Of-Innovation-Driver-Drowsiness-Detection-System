@@ -12,7 +12,7 @@ sound = mixer.Sound('alarm.wav')
 
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 eye_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_eye.xml")
-model = load_model(r"C:\Users\hamza\Desktop\UNIVERSITY STUFF\GDSC\DD\model\model.h5")
+model = load_model(r"E:\Projects\Geeks-Of-Innovation-Driver-Drowsiness-Detection-System\model\model.h5")
 
 
 lbl=['Close', 'Open']
